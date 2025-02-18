@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bk9528/Vikash.kumar/static/css/main.e6c13ad2.css",
+    "main.js": "/bk9528/Vikash.kumar/static/js/main.3298e520.js",
+    "index.html": "/bk9528/Vikash.kumar/index.html",
+    "main.e6c13ad2.css.map": "/bk9528/Vikash.kumar/static/css/main.e6c13ad2.css.map",
+    "main.3298e520.js.map": "/bk9528/Vikash.kumar/static/js/main.3298e520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3298e520.js"
+  ]
+}
